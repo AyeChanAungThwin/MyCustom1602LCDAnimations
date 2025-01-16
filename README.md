@@ -1,7 +1,7 @@
 # MyCustom1602LCDAnimations (JFX)
 
 ## How it looks like
-<iframe width="436" height="256" src="videos/water-level-controller-lcd.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="436" height="256" src="videos/water-level-controller-lcd.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 ## Abstract
 > You need Arduino and 1604 LCD display.
